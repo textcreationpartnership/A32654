@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation touching the planters in the island of Saint Christophers.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32654</idno>
+            <idno type="STC">Wing C3593</idno>
+            <idno type="STC">ESTC R213374</idno>
+            <idno type="EEBO-CITATION">31360533</idno>
+            <idno type="OCLC">ocm 31360533</idno>
+            <idno type="VID">110729</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32654)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110729)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1736:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation touching the planters in the island of Saint Christophers.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>3 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assigns of John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed as broadside, divided into three leaves.</note>
+                  <note>"Given at Our Court at Whitehall the Two and twentieth day of December 1671. in the Twenty third year of Our reign, 1671."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saint Kitts --  Colonization.</term>
+               <term>Great Britain --  Colonies --  America.</term>
+               <term>West Indies --  History --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:110729:1"/>
+            <!-- PDF PAGE 22 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>By the King.</head>
+            <head type="sub">A PROCLAMATION Touching the Planters in the Iſland of Saint CHRISTOPHERS.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it hath been Our care before and ſince the Reſtitution of that part of the Iſland of Saint <hi>Chriſtophers,</hi> which formerly belonged to Vs and Our Subjects, to provide for the Plantation and Improvement thereof, by giving all manner of Encouragements to Our good Subjects to return thither, and to Re-eſtabliſh the former Trade and Commerce: In order whereunto We lately ſent thither Sir <hi>Charls Wheeler</hi> Baronet, with Our Commiſſion to be-Our Lieutenant-General, and General Governour of Our <hi>Leeward</hi> Iſlands in <hi>America;</hi> and for the better execution of ſo important a Charge, gave him ſuch Directions and Inſtructions as were moſt ſuitable to theſe Our Royal Intentions, and might beſt tend to the advancement of the general Good and Welfare of all Our Subjects there, ſo that We might reaſonably have expected before this time, ſome Account of the good ſucceſs of theſe Our endea<g ref="char:EOLhyphen"/>vours in the happy and peaceable Settlement of Our Subjects in their former Proprieties and Poſſeſſi<g ref="char:EOLhyphen"/>ons; nevertheleſs, to the utter diſappointment of Our juſt expectations, and the general Diſcouragement of ſuch of Our Subjects who formerly Inhabited that Iſland, We are given to underſtand, That on or about the Twenty fourth of <hi>Auguſt</hi> laſt paſt, Sir <hi>Charles Wheeler</hi> hath cauſed a certain Proclamation to be publiſhed in that Iſland, thereby endeavouring to oblige the former Inhabitants and Proprietors
+<pb facs="tcp:110729:2"/>
+               <!-- PDF PAGE 23 -->
+to appear before a certain Court of Claims by him there Erected, and to return with a Stock ſufficient for the quantity of Land they Claim, on peril of loſing ſuch part of their Eſtates they ſhall not be able to Stock, which ſhall be given to them who are better able; And moreover, to be Contributory to all Levies to be made for ſatisfaction of the <hi>French</hi> Demands, upon any Article of the Peace at <hi>Breda,</hi> or for ſatisfaction of any other disburſments concerning Fortifications, or any other Publick Expences; with a further menacing intimation to all ſuch as ſhall be found to have Acted or Counſelled in the late Renditi<g ref="char:EOLhyphen"/>on of the Iſland to the <hi>French,</hi> or have been guilty of any Cowardiſe or Folly in that War, That they are not to expect the like advantages with the reſt of Our Subjects: And a Declaration, That upon every mans Eſtate a Quit-Rent ſhall be reſerved, greater or leſſer, according to the merit or demerit of the perſon Reſtored, with an allowance of no longer time to ſuch of Our Subjects who were in the <hi>Barbadoes</hi> and <hi>Caribee</hi> Iſlands, for putting in their Claims, then One Moneth, and but Three Moneths to thoſe who were in any part of <hi>Europe, Virginia, Jamaica, Carolina, Bermuda's,</hi> or <hi>New England,</hi> Then which nothing could have been done more contrary to the Commiſſion and Inſtructions We had given him, nor more repugnant to Our Royal Intentions, and the juſt Intereſts and Advantages of the anti<g ref="char:EOLhyphen"/>ent Planters and Proprietors: Wherefore, and for the better prevention of the ill conſequences which might otherwiſe enſue upon that Proclamation ſo iſſued out by the ſaid Sir <hi>Charles Wheeler,</hi> if the ſame ſhould be allowed to have any force or effect, We have thought fit, by Advice of Our Council, to Publiſh this Our Royal Proclamation, and do hereby Declare Our Will and Pleaſure, That the ſaid Proclamati<g ref="char:EOLhyphen"/>on, and every thing therein contained, is, and ſhall be null and void, to all intents and purpoſes what<g ref="char:EOLhyphen"/>ſoever, as if the ſame had never been had nor made; And becauſe the Return and Re-ſettlement of the an<g ref="char:EOLhyphen"/>tient Planters and Proprietors hath been many ways obſtructed, not onely by the Severities of the ſaid Illegal Proclamation, but by ſeveral accidents which for a long time did very much retard the Sur<g ref="char:EOLhyphen"/>render of the ſaid Iſland, We therefore out of the juſt ſenſe We have of the great Sufferings of the ſaid late Planters and Proprietors, do by theſe preſents, for their eaſe, and in their favour, further Declare, That all and every the late Planters and Proprietors, their Heirs, Executors and Aſſigns, or their Agents reſpectively, ſhall be admitted to enjoy their ſeveral and reſpective Plantations, carrying with them ſuch Stock onely as they are able, or can conveniently provide: Which Grace and Favour of Ours We would have to be underſtood with theſe Qualifications and Reſtrictions onely (That is to ſay) That ſuch who have ſold their Plantations to the <hi>French,</hi> or Claim under thoſe who did Sell the ſame to the <hi>French,</hi> ſhall be obliged to re-imburſe the Purchaſers the Price or Money they or thoſe under whom they Claim, did actually receive for their reſpective Poſſeſſions and Eſtates, within the ſpace of one whole year, to be accounted from the Re-delivery of the <hi>Engliſh</hi> part of the ſaid Iſland, which We are informed, was upon the 5/15 of <hi>July 1671.</hi> And all ſuch who have not Sold to the <hi>French</hi> and their Heirs, Executors and Aſſigns, and their Agents reſpectively, ſhall be obliged to return unto the ſaid Iſland before the Twenty fifth day of <hi>December,</hi> which ſhall be in the year of Our Lord, One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ſeventy two. And We do further Publiſh and Declare Our Royal Will an<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:110729:3"/>
+               <!-- PDF PAGE 24 -->
+Pleaſure, That no Taxes, Tallages, Aides, or other Impoſitions whatſoever, ſhall at any time hereafter be Aſſeſſed or Impoſed, nor any Quit-Rents Reſerved or Required, nor any Moneys Levied, nor any kind of Charge be laid upon, or raiſed out of any Lands or Tenements in the ſaid Iſland, unleſs it be by vertue of ſome Publick Law made or to be made by the Aſſembly of the ſaid Iſland, and with the conſent of the Governour and Counſel there Aſſembled. And moreover, of Our further and more eſpecial Clemency and Favour unto Our good Subjects in the ſaid Iſland, We are Graciouſly pleaſed to Declare, That all and every the Inhabitants, Planters and Proprietors of the ſaid Iſland, and <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and every perſon and perſons Claiming by, from, and under them, or any of them, and all other Our S<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bjects in the ſaid Iſland, ſhall be, and are hereby Freed, Indempnified, and Diſcharged, as againſt Vs, Our Heirs and Succeſſors, of and from all Crimes, Offences, Miſcarriages, and Miſde<g ref="char:EOLhyphen"/>meanours whatſoever, which happened, and were committed in the ſaid Iſland during the late War in the ſaid Iſland, and of and from all Pains and Penalties incurred for or by reaſon of any matter or thing done, or omitted to be done during the ſaid late War; And of and from all Proſecutions, Moleſtations, or Inquiries touching or concerning the ſame; All which matters and things ſhall be, and are hereby put into perpetual Oblivion, nor ſhall the ſame be ever mentioned to the prejudice of any of Our Sub<g ref="char:EOLhyphen"/>jects, either in their Perſons, Eſtates, or Reputations. All which We Command to be Obeyed in all Our Dominions, and all Our Officers Civil and Military, to be Aſſiſting in the Premiſes, as they will anſwer the contrary at their utmoſt perils.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Whitehall</hi> 
+                  <date>the Two and twentieth day of <hi>December</hi> 1671. in the Twenty third year of Our Reign, 1671.</date>
+               </dateline>
+               <lb/>
+God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John Bill</hi> and <hi>Chriſtopher Barker,</hi> Printers to the Kings moſt Excellent Majeſty, 1671.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
